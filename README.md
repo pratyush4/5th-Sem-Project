@@ -1,6 +1,3 @@
-# 5th-Sem-Project
-Face recognition
-
  INTRODUCTION
  -------------------------------------
  This is our 5th semester project on face recognition (AI/ML) which is zipped in a file
@@ -9,7 +6,7 @@ Face recognition
  It has one folder named data
  
  
- Working procedure
+ WORKING PROCEDURE
  -------------------------------------
  Step 1: Run face_data_collection.py in IDE
  Step 2: Enter your name in terminal and press 'enter'
@@ -20,19 +17,19 @@ Face recognition
  Step 7: Press 'q' to exit the process
  
  
- Requirements
+ REQUIREMENTS
  -------------------------------------
  Python installed
  IDE which can run python programs
  A webcam connected to the system
  
  
- Recommended modules
+ RECOMMENDED MODULES
  -------------------------------------
  OpenCV, numpy should be installed
  
  
- Installation
+ INSTALLATION
  -------------------------------------
  https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013
  https://code.visualstudio.com/docs/setup/windows
@@ -40,18 +37,18 @@ Face recognition
  https://phoenixnap.com/kb/install-numpy
  
  
- Configuration
+ CONFIGURATION
  -------------------------------------
  1GB RAM, 1GHz CPU, 100MB free hard disk space, HD Webcam (recommended)
  
  
- Troubleshooting
+ TROUBLESHOOTING
  -------------------------------------
  Check the webcam drivers.
  Reinstall modules
  Sit straight under proper lighting and wait for 30 seconds
-
-
+ 
+ 
  FAQ
  -------------------------------------
  Q. How to exit the window?
@@ -59,8 +56,8 @@ Face recognition
  Q. Where facial data gets stored?
  A. It gets stored inside ./data folder in npy format by the name entered by the user.
  
- 
- Maintainers
+
+ MAINTAINERS
  -------------------------------------
  Pratyush Chand,
  Ashutosh Kumar Chaturvedi
